@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kingofdafootballers
 - 👀 I’m interested in html
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on html
-- 📫 How to reach me (pease dont)
+- 🌱 I’m currently learning html and css
+- 💞️ I’m looking to collaborate on html or css
+- 📫 How to reach me (pls dont)
 - 😄 Pronouns: he\him
   
 
